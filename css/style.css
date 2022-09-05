@@ -22,4 +22,11 @@ body{
         font-size: 15px;
         color: grey;
     }
+    .picture{
+        width: 100%;
+        height: 225px;  
+    }
+    .card-text{
+        text-align: left;
+    }
     
